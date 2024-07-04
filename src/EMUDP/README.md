@@ -1,3 +1,5 @@
+- EMUDP is provided to help clients get their udp socket public_ip:port
+
 ### Usage:
 
 1. **Start the Server**:
