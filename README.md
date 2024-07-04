@@ -50,7 +50,7 @@ The server processes JSON messages sent by clients. The messages should be enclo
         ```json
         {
             "msg": "ADD_PEER",
-            "IP_Peer": "192.168.1.20"
+            "IP_Peer": "192.168.1.20:63413"
         }
         ```
     - **Response (Success)**:
@@ -79,7 +79,7 @@ The server processes JSON messages sent by clients. The messages should be enclo
         ```json
         {
             "msg": "SUCCESS",
-            "IP": "192.168.1.20"
+            "IP": "192.168.1.20:34721"
         }
         ```
     - **Response (Failure)**:
