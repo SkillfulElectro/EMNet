@@ -1,4 +1,5 @@
 # EMNet: A Go TCP Server with Dynamic Port Selection and Peer Management
+- this project is experimental 
 
 ## Overview
 
